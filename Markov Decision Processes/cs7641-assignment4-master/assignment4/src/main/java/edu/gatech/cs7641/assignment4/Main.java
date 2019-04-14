@@ -40,6 +40,11 @@ import edu.gatech.cs7641.assignment4.artifacts.Hazard.HazardType;
 import edu.gatech.cs7641.assignment4.artifacts.PlannerFactory;
 import edu.gatech.cs7641.assignment4.artifacts.Problem;
 
+/*(Code Source Attribution) - This code was taken and used from this repository: https://github.com/svpino/cs7641-assignment4
+ * I have modified the original code to model the MDP's I used for my paper.
+ * For instructions on how to modify this code to create your own MDP and collect data, please follow the instructions in the repository above.
+ */
+
 public class Main {
 
 	/*
